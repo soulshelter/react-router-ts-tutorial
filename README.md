@@ -1,5 +1,36 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# React-Router-Ts-Tutorial
 
+이 프로젝트는 [Create React App](https://github.com/facebook/create-react-app)로 생성되었습니다.
+
+## File Structure
+```
+React-Router-Ts-Tutorial
+│
+├── public
+│   ├── favicon.ico
+│   ├── index.html
+│   └── manifest.json
+├── src
+│   ├── assets
+│   │   ├── css
+│   │   │   ├── App.css
+│   │   │   ├── index.css
+│   │   └── img
+│   │       └── logo.svg
+│   ├── views
+│   │   ├── App.test.tsx
+│   │   ├── Dashboard.tsx
+│   │   ├── Login.tsx
+│   │   └── Mypage.tsx
+│   ├── index.tsx
+│   ├── routes.tsx
+│   ├── serviceWorker.ts
+│   └── setupTests.ts
+├── pakage.json
+├── README.md
+├── tsconfig.json
+└── yarn.lock    
+```
 ## Available Scripts
 
 In the project directory, you can run:
